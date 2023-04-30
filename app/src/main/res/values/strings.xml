@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginRegisterUi</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="or">Or</string>
+    <string name="dash">- - - - - - - - - - - - - - - - - - - - - -</string>
+    <string name="t_continue">Continue</string>
+    <string name="password">password</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="please_log_in">Please,Log In.</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="hi_there">Hi there!</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="create_an_account2">Create an Account</string>
+    <string name="log_in">log In</string>
+</resources>
